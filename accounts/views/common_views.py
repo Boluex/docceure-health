@@ -5,7 +5,6 @@ from django.shortcuts import render, redirect
 from django.urls import reverse_lazy
 from django.views.generic import CreateView, FormView, RedirectView, UpdateView
 from rest_framework.generics import UpdateAPIView
-
 from accounts.forms import (
     DoctorRegistrationForm,
     PatientRegistrationForm,

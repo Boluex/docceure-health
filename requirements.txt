@@ -11,7 +11,7 @@ contextlib2==21.6.0
 distlib==0.3.8
 distro==1.9.0
 Django==5.0.6
-django-ckeditor==6.7.2
+django-ckeditor
 django-debug-toolbar==4.4.2
 django-js-asset==3.0.1
 djangorestframework==3.15.1
@@ -25,7 +25,7 @@ mypy-extensions==1.0.0
 packaging==24.0
 pathspec==0.12.1
 pep517==0.13.1
-pillow==10.3.0
+pillow==10.2.0
 platformdirs==4.2.2
 progress==1.6
 pyparsing==3.1.2
